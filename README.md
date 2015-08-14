@@ -5,7 +5,9 @@
 
 大概是以下样子：
 
-![yes](https://github.com/dsgygb/betterme/blob/master/screenshot.png?raw=true)
+![yes](https://github.com/dsgygb/betterme/blob/master/list.png?raw=true)
+
+![yes](https://github.com/dsgygb/betterme/blob/master/detail.png?raw=true)
 
 
 直接下载即可使用。
