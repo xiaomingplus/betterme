@@ -1,0 +1,24 @@
+body{
+	font-family: 'Open Sans','Helvetica Neue',Arial,'Hiragino Sans GB','Microsoft YaHei','WenQuanYi Micro Hei',sans-serif;
+}
+.container-fluid{
+	padding: 0px;
+}
+#wrap{
+	
+}
+#wrap ul{
+	list-style: none;
+	padding: 0px;
+}
+#wrap ul li{
+font-size: 32px;
+letter-spacing:1.8px;
+line-height: 2;
+color: #fff;
+min-height:300px;*+height:100%;_height:300px;
+background-color: black;
+list-style: none;
+padding: 75px;
+border-bottom: thin solid #E6E6E6;
+}
